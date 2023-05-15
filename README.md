@@ -2,11 +2,11 @@
 
 ## Description du projet
 
-Ce projet est un ensemble de codes pour la plateforme de streaming Disney+. Le code développé permettra de créer une interface utilisateur intuitive pour les visiteurs de la plateforme, ainsi que des fonctionnalités permettant de rechercher et de sélectionner différents types de contenu, tels que des films, des séries et des documentaires.
+Ce projet est un ensemble de codes pour la plateforme de streaming Disney+..
 
 ## Technologies utilisées
 
-Le projet utilise une combinaison de langages de programmation tels que HTML, CSS, JavaScript, ainsi que des frameworks tels que React et Bootstrap. Nous avons également utilisé la plateforme de partage de code GitHub pour héberger et gérer les différentes versions du code.
+Le projet utilise une combinaison de langages de programmation tels que HTML, CSS, JavaScript. Nous avons également utilisé la plateforme de partage de code GitHub pour héberger et gérer les différentes versions du code.
 
 ## Installation
 
