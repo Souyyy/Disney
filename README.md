@@ -10,4 +10,8 @@ Le projet utilise une combinaison de langages de programmation tels que HTML, CS
 
 ## Installation
 
-Pour utiliser le code, vous devrez cloner le référentiel sur votre ordinateur et installer les dépendances nécessaires à l'aide de npm. Une fois les dépendances installées, vous pourrez lancer le projet en utilisant la commande "npm start" dans votre terminal.
+Pour utiliser le code, vous devrez télécharger le code.
+
+## Lien de la démo sur ce site
+
+
